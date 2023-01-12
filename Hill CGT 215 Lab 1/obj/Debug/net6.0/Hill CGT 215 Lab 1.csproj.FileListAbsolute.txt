@@ -1,0 +1,15 @@
+C:\Users\hill531\source\repos\Hill CGT 215 Lab 1\Hill CGT 215 Lab 1\bin\Debug\net6.0\Hill CGT 215 Lab 1.exe
+C:\Users\hill531\source\repos\Hill CGT 215 Lab 1\Hill CGT 215 Lab 1\bin\Debug\net6.0\Hill CGT 215 Lab 1.deps.json
+C:\Users\hill531\source\repos\Hill CGT 215 Lab 1\Hill CGT 215 Lab 1\bin\Debug\net6.0\Hill CGT 215 Lab 1.runtimeconfig.json
+C:\Users\hill531\source\repos\Hill CGT 215 Lab 1\Hill CGT 215 Lab 1\bin\Debug\net6.0\Hill CGT 215 Lab 1.dll
+C:\Users\hill531\source\repos\Hill CGT 215 Lab 1\Hill CGT 215 Lab 1\bin\Debug\net6.0\Hill CGT 215 Lab 1.pdb
+C:\Users\hill531\source\repos\Hill CGT 215 Lab 1\Hill CGT 215 Lab 1\obj\Debug\net6.0\Hill CGT 215 Lab 1.csproj.AssemblyReference.cache
+C:\Users\hill531\source\repos\Hill CGT 215 Lab 1\Hill CGT 215 Lab 1\obj\Debug\net6.0\Hill CGT 215 Lab 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hill531\source\repos\Hill CGT 215 Lab 1\Hill CGT 215 Lab 1\obj\Debug\net6.0\Hill CGT 215 Lab 1.AssemblyInfoInputs.cache
+C:\Users\hill531\source\repos\Hill CGT 215 Lab 1\Hill CGT 215 Lab 1\obj\Debug\net6.0\Hill CGT 215 Lab 1.AssemblyInfo.cs
+C:\Users\hill531\source\repos\Hill CGT 215 Lab 1\Hill CGT 215 Lab 1\obj\Debug\net6.0\Hill CGT 215 Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\hill531\source\repos\Hill CGT 215 Lab 1\Hill CGT 215 Lab 1\obj\Debug\net6.0\Hill CGT 215 Lab 1.dll
+C:\Users\hill531\source\repos\Hill CGT 215 Lab 1\Hill CGT 215 Lab 1\obj\Debug\net6.0\refint\Hill CGT 215 Lab 1.dll
+C:\Users\hill531\source\repos\Hill CGT 215 Lab 1\Hill CGT 215 Lab 1\obj\Debug\net6.0\Hill CGT 215 Lab 1.pdb
+C:\Users\hill531\source\repos\Hill CGT 215 Lab 1\Hill CGT 215 Lab 1\obj\Debug\net6.0\Hill CGT 215 Lab 1.genruntimeconfig.cache
+C:\Users\hill531\source\repos\Hill CGT 215 Lab 1\Hill CGT 215 Lab 1\obj\Debug\net6.0\ref\Hill CGT 215 Lab 1.dll
